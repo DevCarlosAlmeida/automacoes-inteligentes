@@ -38,7 +38,7 @@ Depois: 1 segundo. Prefixo + número automático.
 bash
 python scripts/renomeia_em_lote.py "caminho/da/pasta"
 📞 Quer economizar tempo de verdade?
-Me chama direto. Sem intermediário, sem formulário.
+Me chama direto. Sem intermediário.
 
 📧 Email: devcarlosalmeida@gmail.com
 
@@ -47,11 +47,3 @@ Me chama direto. Sem intermediário, sem formulário.
 📱 WhatsApp: (44) 99129-5137
 
 ⭐ Se isso poupou minutos da sua vida, dá uma estrela no repositório.
-
-text
-
----
-
-Só copiar, colar no lugar do antigo e dar **Commit changes**.
-
-Agora sim. Quer o post do LinkedIn ou caçar cliente?
